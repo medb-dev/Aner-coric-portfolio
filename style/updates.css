@@ -1,0 +1,24 @@
+.last-xp{
+    display: grid;
+    grid-template-columns: 22% auto 22%;
+}
+
+.svc-card{
+    display: grid;
+    grid-template-rows: 30% 70%;
+    grid-gap: 2rem;
+    margin-bottom: 1rem;
+}
+
+.ptf-card{
+    display: grid;
+    grid-template-rows: 30% 70%;
+    grid-gap: 2rem;
+    margin-bottom: 1rem;
+}
+
+.text-code{
+    font-family: 'consolas', monospace;
+    font-size: .9rem;
+    color: rgb(199, 122, 195);
+}
